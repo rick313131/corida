@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.rd1818569Corida"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Corida maluca-by curso</name>
+
+  <description>
+     jogo criado por um aluno de curso para receber uma boa nota
+  </description>
+
+  <author href="https://rd1818569@gmail.com" email="rd1818569@gmail.com">
+      Hardeep Shoker
+  </author>
+Richard da silva
+<icon src="icon.png"/>
+</widget>
